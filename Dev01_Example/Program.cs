@@ -45,3 +45,35 @@ while(index <= 9)
     index++;
 }
 
+// Выводит числа, которые меньше среднего арифмитического элементов массива
+Console.WriteLine("\nСумма элементов массива:"); // Пустая строка
+int sum = 0;
+for (int i = 0; i < array.Length; i++)
+{
+     sum += array[i]; // Сумма элементов в массиве
+}
+Console.WriteLine(sum);
+int average = sum/array.Length; // Среднее арифметическое элементов массива
+Console.WriteLine("Среднее арифметическое элементов массива\n" + average);
+Console.WriteLine("Числа, которые меньше среднего арифмитического элементов массива:");
+index = 0;
+while (index < array.Length)
+{
+     if (array[index] < average)
+     {
+          Console.WriteLine(array[index]);
+     }
+     index++;
+}
+
+// Вывести нечетные элементы массива
+Console.WriteLine("\nНечётные элементы массива:"); // Пустая строка
+index = 0;
+while (index < array.Length)
+{
+     if (array[index] % 2 != 0 )
+     {
+         Console.WriteLine(array[index]);
+     }
+     index++;
+}
