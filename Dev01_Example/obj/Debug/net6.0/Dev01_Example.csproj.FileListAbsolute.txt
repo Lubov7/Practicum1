@@ -1,0 +1,16 @@
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\bin\Debug\net6.0\Dev01_Example.exe
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\bin\Debug\net6.0\Dev01_Example.deps.json
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\bin\Debug\net6.0\Dev01_Example.runtimeconfig.json
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\bin\Debug\net6.0\Dev01_Example.dll
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\bin\Debug\net6.0\ref\Dev01_Example.dll
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\bin\Debug\net6.0\Dev01_Example.pdb
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.GlobalUsings.g.cs
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.csproj.AssemblyReference.cache
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.AssemblyInfoInputs.cache
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.AssemblyInfo.cs
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.dll
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\ref\Dev01_Example.dll
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.pdb
+D:\Geekbrains\Домашняя работа homework\Знакомство с языком програмирования\Practicum1\Dev01_Example\obj\Debug\net6.0\Dev01_Example.genruntimeconfig.cache
