@@ -23,7 +23,7 @@ while(index < 10)
 
 index = 0;
 //Печатаем массив
-while(index <=9)
+while(index < 10)
 {
     int val = array[index];
     Console.WriteLine(val);
@@ -31,4 +31,27 @@ while(index <=9)
 }
 Console.WriteLine("Числа в массиве по возрастанию:");
 
+index = 1;
+int currentElement = array [0];
+Console.WriteLine(currentElement);
+while(index < 10)
+{
+    if(array[index] > currentElement)
+    {
+        Console.WriteLine(array[index]);
+        currentElement = array[index];
+    }
+    index++;
+}
+Console.WriteLine("Числа меньше 8");
+int number = 8;
+index = 0;
+while(index < 10)
+{
+    if(number > array[index])
+    {
+        Console.WriteLine(array[index]);
+    }
+    index++;
+}
 
