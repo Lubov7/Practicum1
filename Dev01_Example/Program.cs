@@ -30,6 +30,7 @@ while (index <=9)
 }
 
 Console.WriteLine();
+Console.WriteLine("\nЧисла в массиве, соблюдающие порядок возрастания:");
 index = 1;
 // Исключение элементов которые нарушают порядок возрастания
 int currentElement = array[0];
